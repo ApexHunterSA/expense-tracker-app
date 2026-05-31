@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dylan\\source\\repos\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21726650-7CF4-7477-36F9-63518B38E2E5}|ExpenseTracker\\ExpenseTracker.vbproj|c:\\users\\dylan\\source\\repos\\expensetracker\\expensetracker\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21726650-7CF4-7477-36F9-63518B38E2E5}|ExpenseTracker\\ExpenseTracker.vbproj|solutionrelative:expensetracker\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21726650-7CF4-7477-36F9-63518B38E2E5}|ExpenseTracker\\ExpenseTracker.vbproj|c:\\users\\dylan\\source\\repos\\expensetracker\\expensetracker\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{21726650-7CF4-7477-36F9-63518B38E2E5}|ExpenseTracker\\ExpenseTracker.vbproj|solutionrelative:expensetracker\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\dylan\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Form1.vb",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Form1.vb",
+              "ToolTip": "C:\\Users\\dylan\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Form1.vb",
+              "RelativeToolTip": "ExpenseTracker\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-31T12:17:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\dylan\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Form1.vb",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Form1.vb",
+              "ToolTip": "C:\\Users\\dylan\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Form1.vb [Design]",
+              "RelativeToolTip": "ExpenseTracker\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-31T12:08:00.644Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

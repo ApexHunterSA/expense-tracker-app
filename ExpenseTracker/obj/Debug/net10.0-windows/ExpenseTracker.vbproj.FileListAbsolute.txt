@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0-windows\ExpenseTracker.exe
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0-windows\ExpenseTracker.deps.json
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0-windows\ExpenseTracker.runtimeconfig.json
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0-windows\ExpenseTracker.dll
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0-windows\ExpenseTracker.pdb
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ExpenseTracker.Form1.resources
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ExpenseTracker.vbproj.GenerateResource.cache
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ExpenseTracker.AssemblyInfo.vb
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ExpenseTracker.vbproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ExpenseTracker.dll
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\refint\ExpenseTracker.dll
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ExpenseTracker.pdb
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ExpenseTracker.genruntimeconfig.cache
+C:\Users\dylan\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0-windows\ref\ExpenseTracker.dll
